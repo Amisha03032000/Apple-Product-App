@@ -1,6 +1,6 @@
 # Apple-Product-App
 A web application that allows people to purchase apple products online. Used various Design pattern concepts at backend.
-
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 A working Video:
 
 
